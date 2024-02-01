@@ -1,4 +1,4 @@
-import { List, LaunchProps } from "@raycast/api";
+import { List } from "@raycast/api";
 import { useState, useEffect } from "react";
 import dayjs from "dayjs";
 import "dayjs/locale/zh-cn"; // 导入本地化语言
